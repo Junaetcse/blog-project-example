@@ -1,4 +1,7 @@
 $dark-overlay: rgba(0,0,0,0.7);
+h2{
+    color: lightcyan;
+}
 .navbar{
     background: #000;
     .nav-item{
@@ -103,6 +106,6 @@ $dark-overlay: rgba(0,0,0,0.7);
     }
 
     #getstarted{
-        min-height: 350px;
+        min-height: 400px;
     }
 }

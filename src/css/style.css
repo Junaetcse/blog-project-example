@@ -1,3 +1,6 @@
+h2 {
+  color: lightcyan; }
+
 .navbar {
   background: #000; }
   .navbar .nav-item {
@@ -74,4 +77,4 @@
   .carousel h2 {
     font-size: 2rem; }
   #getstarted {
-    min-height: 350px; } }
+    min-height: 400px; } }
