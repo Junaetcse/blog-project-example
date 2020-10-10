@@ -58,6 +58,9 @@
       font-size: 50px;
       color: red; }
 
+#footer {
+  background: #000; }
+
 #gallery img {
   min-height: 250px; }
 
