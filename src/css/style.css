@@ -23,10 +23,29 @@
 #homeicon .fa {
   font-size: 50px; }
 
+#getstarted {
+  position: relative;
+  background: url(../img/bg1.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 250px; }
+  #getstarted .background-overlay {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0; }
+
 @media (max-width: 767px) {
   .nav-item {
-    padding-left: 0 !important; } }
+    padding-left: 0 !important; }
+  #getstarted {
+    min-height: 300px; } }
 
 @media (max-width: 448px) {
   .carousel h2 {
-    font-size: 2rem; } }
+    font-size: 2rem; }
+  #getstarted {
+    min-height: 350px; } }
