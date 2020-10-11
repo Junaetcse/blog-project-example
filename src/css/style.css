@@ -67,6 +67,19 @@ h2 {
 #gallery img {
   min-height: 250px; }
 
+#page-header {
+  background: url(../img/image1.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 200px; }
+
+#about-info img {
+  height: 400px;
+  width: 400px; }
+
+#icon-box .fa {
+  font-size: 50px; }
+
 @media (max-width: 767px) {
   .nav-item {
     padding-left: 0 !important; }
